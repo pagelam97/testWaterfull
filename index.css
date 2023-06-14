@@ -1,0 +1,16 @@
+body {
+  background-color: #ccc;
+}
+.wrapper {
+  height: 30000px;
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+.wrapper .wf-item {
+  position: absolute;
+}
+.wrapper .wf-item .wf-img {
+  width: 100%;
+  height: 100%;
+}
